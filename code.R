@@ -6,3 +6,8 @@ z <- y - x
 
 #idea for analysis
 z + y + x
+
+#new analysis
+z - y * x
+
+#crucial update! this is important! x is actually not an integer
