@@ -13,3 +13,6 @@ z - y * x
 #crucial update! this is important! x is actually not an integer
 
 x <- 546
+
+#add additional content
+new_var <- x * 2
