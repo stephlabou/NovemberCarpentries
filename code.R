@@ -13,3 +13,6 @@ z - y * x
 #crucial update! this is important! x is actually not an integer
 
 x <- 546
+
+#another idea for analysis
+new_data <- x * y
