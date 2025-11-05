@@ -11,3 +11,5 @@ z + y + x
 z - y * x
 
 #crucial update! this is important! x is actually not an integer
+
+x <- 546
