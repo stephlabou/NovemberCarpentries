@@ -13,3 +13,6 @@ x - y
 
 #I do want a new variable, for real this time
 z = x^2
+
+#add new line for analysis
+z*2
