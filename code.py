@@ -10,3 +10,6 @@ x + y
 
 #talked to prof, try new analysis
 x - y
+
+#I do want a new variable, for real this time
+z = x^2
